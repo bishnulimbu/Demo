@@ -1,0 +1,6 @@
+  This is the linux commands that I find common to encounter.
+  touch for creating files. Eg.   touch text.txt
+  nano for opeaning files.  Eg.   nano text.txt
+  also instead of cd.. debain command operates on cd ..
+  Also for removing root access removal use    chmod 777 ./filename
+
