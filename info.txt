@@ -4,3 +4,9 @@
   also instead of cd.. debain command operates on cd ..
   Also for removing root access removal use    chmod 777 ./filename
 
+
+
+
+  c file compilation : gcc filename
+                       ./a.out          also can be    gcc -o filename filename.c 
+
