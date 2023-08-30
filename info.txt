@@ -10,3 +10,6 @@
   c file compilation : gcc filename
                        ./a.out          also can be    gcc -o filename filename.c 
 
+  
+  fc-list   for fonts installed in your system.
+
