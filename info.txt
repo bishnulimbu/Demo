@@ -12,4 +12,10 @@
 
   
   fc-list   for fonts installed in your system.
+  
+  <leader> s then t for fiding text in a file.
+
+  inxi -F for systeminfo
+
+  for ubuntu editing     lvim /etc/ppp/ip-up.d/0000usepeerdns 
 
