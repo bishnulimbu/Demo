@@ -18,4 +18,5 @@
   inxi -F for systeminfo
 
   for ubuntu editing     lvim /etc/ppp/ip-up.d/0000usepeerdns 
-
+  
+  Super A for showing apps.
