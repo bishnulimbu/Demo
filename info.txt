@@ -22,3 +22,5 @@
   Super A for showing apps.
 
   Alt 1 or Alt 2 for toggling tap in terminal
+  Ctrl Shift T for new tab in terminal
+  Ctrl Shift w for closings tab
