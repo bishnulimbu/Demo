@@ -20,3 +20,5 @@
   for ubuntu editing     lvim /etc/ppp/ip-up.d/0000usepeerdns 
   
   Super A for showing apps.
+
+  Alt 1 or Alt 2 for toggling tap in terminal
