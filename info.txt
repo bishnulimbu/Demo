@@ -24,3 +24,5 @@
   Alt 1 or Alt 2 for toggling tap in terminal
   Ctrl Shift T for new tab in terminal
   Ctrl Shift w for closings tab
+
+  export NODE_OPTIONS="--dns-result-order=ipv4first"
