@@ -34,3 +34,5 @@ git remote add origin git@github.com:bishnulimbu/Test.git
 git branch -M main
 git push -u origin main
 )
+
+Ctrl Shift T for new tab in terminal and Ctrl PageUp Down for toggle.
