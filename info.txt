@@ -36,3 +36,5 @@ git push -u origin main
 )
 
 Ctrl Shift T for new tab in terminal and Ctrl PageUp Down for toggle.
+
+python3 -m pip install --upgrade pip       for upgrading pip version.
